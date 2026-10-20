@@ -1,0 +1,12 @@
+# raw data and generated files (anyone can regenerate them with the scripts)
+data/raw/
+data/*.db
+outputs/order_facts.csv
+outputs/customer_facts.csv
+outputs/04_rfm_segments.csv
+
+# your personal build guide - not for the public repo
+BUILD_GUIDE.md
+
+.venv/
+__pycache__/

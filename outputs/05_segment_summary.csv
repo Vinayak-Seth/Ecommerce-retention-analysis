@@ -1,0 +1,7 @@
+segment,customers,pct_customers,revenue,pct_revenue,avg_value_per_customer,avg_recency_days
+1. Loyal high-value,2467,2.6,836633.0,5.4,339.13,217.0
+2. Loyal,334,0.4,27555.0,0.2,82.5,240.0
+3. New high-value (win 2nd order),22469,24.1,5869149.0,38.1,261.21,111.0
+4. New low-value,22664,24.3,1427803.0,9.3,63.0,111.0
+5. Lapsed high-value,21738,23.3,5746133.0,37.3,264.34,364.0
+6. Lapsed low-value,23678,25.4,1511122.0,9.8,63.82,364.0
